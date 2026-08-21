@@ -95,7 +95,7 @@ figcaption {
 
 
 
-card {
+.card {
     display: block;
     background-color: #000000;
     padding: 15px;
@@ -106,7 +106,7 @@ card {
 
 
 
-card h3 {
+.card h3 {
     margin-top: 0;
     color: #b30000;
 }
@@ -114,7 +114,7 @@ card h3 {
 
 
 footer {
-    background-color: white;
+    background-color: rgba(228, 5, 5, 0.932);
     color: black;
     text-align: center;
     padding: 20px;
