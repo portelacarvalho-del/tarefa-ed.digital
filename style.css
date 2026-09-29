@@ -120,3 +120,23 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+
+button {
+    background-color: #b30000;
+    color: ghostwhite;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: #ff0000;
+}
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
