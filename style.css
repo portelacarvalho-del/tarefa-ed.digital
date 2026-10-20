@@ -1,14 +1,14 @@
 :root{
-   --cor-fundo: #222222;
-   --cor-texto:#f4f0e8;
+   --cor-fundo: #f4f0e8;
+   --cor-texto:#222222;
    --cor-principal: #e40b0b;
    --cor-secundaria: #a83420;
    --cor-hover:#b32107;
-   --cor-superficie:#222222;
+   --cor-superficie:#f4f0e8;
    --cor-card: #e41717;
-   --cor-legenda: #f4f0e8;
-   --cor-clara: #f4f0e8;
-   --cor-rodape:#f4f0e8;
+   --cor-legenda: #222222;
+   --cor-clara: #222222;
+   --cor-rodape:#222222;
 }
 body {
     background-color: #000000;
