@@ -1,6 +1,6 @@
 :root{
    --cor-fundo: #f4f1ea;
-   --cor-texto:#ffffff;
+   --cor-texto:#000000;
    --cor-principal: #e40b0b;
    --cor-secundaria: #ffffff;
    --cor-hover:#ffffff;
@@ -8,7 +8,7 @@
    --cor-card: #f4f1ea;
    --cor-legenda: #1f1717;
    --cor-clara: #ffffff;
-   --cor-rodape:#222222;
+   --cor-rodape:#ffffff;
 }
 
 .tema-escuro {
