@@ -1,12 +1,12 @@
 :root{
    --cor-fundo: #f4f1ea;
-   --cor-texto:#222222;
+   --cor-texto:#ffffff;
    --cor-principal: #e40b0b;
    --cor-secundaria: #ffffff;
    --cor-hover:#ffffff;
    --cor-superficie:#ffffff;
    --cor-card: #f4f1ea;
-   --cor-legenda: #ffffff;
+   --cor-legenda: #1f1717;
    --cor-clara: #ffffff;
    --cor-rodape:#222222;
 }
